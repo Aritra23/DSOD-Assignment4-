@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotel.xslt"?>
+<Hotels>
+  <Hotel Stars="****">
+    <Name>Mandarin Oriental</Name>
+    <Contact>
+      <Phone>7025908888</Phone>
+      <Email>hotels@mandarinoriental.com</Email>
+    </Contact>
+    <Address BusLines="482,987,994">
+      <Number>3752</Number>
+      <Street>Boulevard South</Street>
+      <City>Las Vegas</City>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>Taj Bengal</Name>
+    <Contact>
+      <Phone>+919831741641</Phone>
+      <Email>taj@bengalhotels.com</Email>
+    </Contact>
+    <Address BusLines="218,45,5,6">
+      <Number>32</Number>
+      <Street>Chowringhee Lane</Street>
+      <City>Kolkata</City>
+      <Zip>700001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name>Oberoi Grand</Name>
+    <Contact>
+      <Phone>+91332521255</Phone>
+      <Email>oberoi@grand.com</Email>
+    </Contact>
+    <Address BusLines="">
+      <Number>88C</Number>
+      <Street>Andheri east</Street>
+      <City>Mumbai</City>
+      <Zip>749854</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name>Park Hotel</Name>
+    <Contact>
+      <Phone>+91332021111</Phone>
+      <Email>parkhotels@gmail.com</Email>
+    </Contact>
+    <Address BusLines="206,SD6,37">
+      <Number>101</Number>
+      <Street>AJC bose road</Street>
+      <City>Kolkata</City>
+      <Zip>700068</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name>ITC Sonar</Name>
+    <Contact>
+      <Phone>+91322521281</Phone>
+      <Email>itc@hotel.com</Email>
+    </Contact>
+    <Address BusLines="MT5,AS2">
+      <Number>222</Number>
+      <Street>IndiraNagar</Street>
+      <City>Bangalore</City>
+      <Zip>701392</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>Hotel Hindusthan International</Name>
+    <Contact>
+      <Phone>+9134561221</Phone>
+      <Email>hhi@hotel.com</Email>
+    </Contact>
+    <Address BusLines="">
+      <Number>206</Number>
+      <Street>Sarat bose road</Street>
+      <City>Kolkata</City>
+      <Zip>70091</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name>Singhania Hotels</Name>
+    <Contact>
+      <Phone>+91332421261</Phone>
+      <Email>singh@gmail.com</Email>
+    </Contact>
+    <Address BusLines="">
+      <Number>102</Number>
+      <Street>East Park</Street>
+      <City>Delhi</City>
+      <Zip>543592</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>KPC Hotel</Name>
+    <Contact>
+      <Phone>+913320004455</Phone>
+      <Email>kpc@resorts.com</Email>
+    </Contact>
+    <Address BusLines="">
+      <Number>309</Number>
+      <Street>18 Road</Street>
+      <City>Kolkata</City>
+      <Zip>700061</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name>Paradise Hotel</Name>
+    <Contact>
+      <Phone>+913326661261</Phone>
+      <Email>htp@paradise.com</Email>
+    </Contact>
+    <Address>
+      <Number>104</Number>
+      <Street>East Street</Street>
+      <City>Chennai</City>
+      <Zip>642996</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*****">
+    <Name>Arizona Tempe Palms</Name>
+    <Contact>
+      <Phone>4802661345</Phone>
+      <Email>tempepalms@asuhotels.com</Email>
+    </Contact>
+    <Address >
+      <Number>1010</Number>
+      <Street>Mill Avenue</Street>
+      <City>Tempe</City>
+      <Zip>85287</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
